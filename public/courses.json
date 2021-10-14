@@ -1,0 +1,66 @@
+[
+  {
+    "id": "6165e786cd44d1bfb9ec721d",
+    "picture": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80",
+    "duration": "6 months",
+    "name": "Blockchain Development",
+    "students": "3347 people are currently taking this course.",
+    "overview": "This course is specifically designed to guide you through the various aspects of blockchain technologies and how they impact enterprise business imperatives. You will learn how to practically engage with enterprise executives and match their needs with pragmatic and immediately effective solutions."
+  },
+  {
+    "id": "6165e7868b46782886877f42",
+    "picture": "https://images.unsplash.com/photo-1614064548016-0b5c13ca2c85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+    "duration": "5 months",
+    "name": "Cyber Security",
+    "students": "4894 people are currently taking this course.",
+    "overview": "Cybersecurity reveals potential failures in furnishing the desired level of security. Cybersecurity testing reveals the presence of defects but cannot confirm their absence. Where security requirements have been specified, testing can verify how adequately these requirements are satisfied."
+  },
+  {
+    "id": "6165e7868e05f79ac6d30705",
+    "picture": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80",
+    "duration": "4 months",
+    "name": "Data Science and ML",
+    "students": "2591 people are currently taking this course.",
+    "overview": "The program consists of 9 online courses that will provide you with the latest job-ready tools and skills, including open source tools and libraries, Python, databases, SQL, data analysis, statistical analysis, predictive modeling, and Machine Learning algorithms."
+  },
+  {
+    "id": "6165e78678f8fdf0e9714020",
+    "picture": "https://images.unsplash.com/photo-1517420704952-d9f39e95b43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "duration": "3 months",
+    "name": "Electrical Engineering",
+    "students": "1964 people are currently taking this course.",
+    "overview": "Signal processing, Automation and robotic industries, Power and control engineering, Aerospace systems, defense engineering, Telecommunications, Instrumentation and computer engineering"
+  },
+  {
+    "id": "6165e786c821365eb46b1acb",
+    "picture": "https://images.unsplash.com/photo-1565022536102-f7645c84354a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2073&q=80",
+    "duration": "5 months",
+    "name": "GRE and IELTS",
+    "students": "1925 people are currently taking this course.",
+    "overview": "Breakdown of each questions carefully. 240 GRE Math Video Solutions. FREE GRE Math formula Sheet PDF. Attempt solving 3 or more questions in a roll in that section using the Barron's 6 GRE PRACTICE TESTS 2nd or 3rd Edition Textbook."
+  },
+  {
+    "id": "6165e786f1eb0cd7381cc1c1",
+    "picture": "https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1474&q=80",
+    "duration": "4 months",
+    "name": "Web Development",
+    "students": "1576 people are currently taking this course.",
+    "overview": "You’re here because you’re ready to start building professional, career-boosting websites. Or maybe you’re coding already and want to take things to the next level? We're here because we're the creator of the best-selling, highest-rated coding courses - and We'd love to share our secrets with you."
+  },
+  {
+    "id": "6165e786f256c40bffa6e983",
+    "picture": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80",
+    "duration": "4 months",
+    "name": "Mastering Microeconomics",
+    "students": "3596 people are currently taking this course.",
+    "overview": "This course covers the most important foundation concepts in microeconomics necessary for application in more advanced models. Principles and theories discussed in this course can also be applied in real life decision making. All the important theories, models, graphs and laws are discussed using high-quality sound and animation."
+  },
+  {
+    "id": "6165e786f256c40bffa6e5641",
+    "picture": "https://www.digitalengineering247.com/images/article/DE2006_AutoCAD_2021review01.jpg",
+    "duration": "4 months",
+    "name": "AutoCAD",
+    "students": "2307 people are currently taking this course.",
+    "overview": "Most comprehensive AutoCAD course online with 184 video lectures, 150 AutoCAD command list and AutoCAD quizzes eBook included. New features of AutoCAD 2018, 19, 20 and 2021 version included. Taught by certified AutoCAD professional. Extra practice drawings and projects at the end of the course."
+  }
+]

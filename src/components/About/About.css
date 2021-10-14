@@ -1,0 +1,40 @@
+.about{
+  background-image: linear-gradient(to left top, #464445, #433c42, #3e3540, #352e40, #292940, #222c43, #1b3045, #133346, #213d49, #31474c, #435050, #545958);
+  width: 100%;
+  height: 100vh;
+  padding: 100px 100px;
+}
+
+.about>h2, p{
+  color: rgba(245, 245, 245, 0.87);
+}
+
+.about>h2{
+  border: 2px solid whitesmoke;
+  padding: 7px;
+  width: 200px;
+  margin: auto;
+}
+
+.trusted-companys{
+  padding: 100px 100px;
+  color: rgba(247, 236, 217, 0.849);
+}
+
+.trusted-companys>h2{
+  width: 570px;
+  border-bottom: 2px solid wheat;
+  margin: auto;
+}
+
+.icons{
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  color: whitesmoke;
+}
+
+.icon{
+  font-size: 60px;
+  margin: 25px;
+}

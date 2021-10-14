@@ -1,0 +1,11 @@
+.courses{
+  /* background-image: linear-gradient(90deg, #8e9eab,  #eef2f3); */
+  background-image: linear-gradient(to right bottom, #1c1117, #1f141d, #211625, #211a2d, #1d1e35, #1a2640, #122f4b, #003854, #004861, #00586a, #00686f, #117871);
+  width: 100%;
+  height: auto;
+  padding-top: 100px;
+}
+
+.courses>h2{
+  color: rgba(245, 245, 245, 0.856);
+}

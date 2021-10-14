@@ -1,0 +1,25 @@
+.header-section{
+  position: absolute;
+  height: 50px;
+  margin: auto;
+  top: 15px;
+  right: 20px;
+}
+
+.link{
+  text-decoration: none;
+  margin: 10px 10px;
+  color: bisque;
+  font-size: 20px;
+  font-weight: 400;
+  background-color: transparent;
+  /* background-color: #0e243ff3; */
+  padding: 12px;
+  border-radius: 5px;
+}
+
+.link:hover{
+  color: white;
+  background-color: rgba(165, 42, 42, 0.178);
+  border-radius: 4px;
+}
