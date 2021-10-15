@@ -1,6 +1,6 @@
 # JPO - jobs preparation online
 
-Live website link (https://github.com/facebook/create-react-app).
+Live website link https://jpo-assignment-3cea82.netlify.app/.
 
 ## A demo - educational website
  * it's a one-page website
