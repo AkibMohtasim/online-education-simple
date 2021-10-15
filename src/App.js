@@ -8,6 +8,7 @@ import NotFound from './components/NotFound/NotFound';
 import Services from './components/Services/Services';
 import Teachers from './components/Teachers/Teachers';
 import Contact from './components/Contact/Contact';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -38,6 +39,8 @@ function App() {
             <NotFound></NotFound>
           </Route>
         </Switch>
+
+        <Footer></Footer>
       </Router>
     </div>
   );

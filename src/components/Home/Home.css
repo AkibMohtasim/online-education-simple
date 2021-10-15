@@ -23,7 +23,7 @@
   margin: 0;
 }
 
-h1{
+.home-left>h1{
   color: rgba(255, 255, 0, 0.881);
   padding: 10px 0px;
   background-color: #0e243f81;

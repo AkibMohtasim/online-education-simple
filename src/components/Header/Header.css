@@ -6,6 +6,31 @@
   right: 20px;
 }
 
+.logo-section{
+  position: absolute;
+  height: 70px;
+  margin: auto;
+  top: 15px;
+  left: 20px;
+  display: flex;
+  align-items: center;
+  /* background-color: #081c4e52; */
+  background-color: rgba(250, 235, 215, 0.753);
+  padding: 0px 5px;
+  border-radius: 10px;
+}
+
+.logo-section>h3{
+  /* color: #f1678b; */
+}
+
+
+.logo-section>img{
+  margin-left: 10px;
+  height: 60px;
+  border-radius: 50%;
+}
+
 .link{
   text-decoration: none;
   margin: 10px 10px;

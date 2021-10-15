@@ -2,8 +2,8 @@ import React from 'react';
 
 const NotFound = () => {
   return (
-    <div>
-      <h2>Error 404: Not Found</h2>
+    <div className="container-fluid bg-dark d-flex justify-content-center align-items-center" style={{height: '100vh'}}>
+      <h2 className="text-white">Error 404: Not Found</h2>
     </div>
   );
 };

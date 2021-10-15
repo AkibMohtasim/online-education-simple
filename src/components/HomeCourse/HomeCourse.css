@@ -1,0 +1,10 @@
+.home-course{
+  background-color: #29599798;
+  border-radius: 10px;
+  transition: box-shadow 0.5s;
+  overflow: hidden;
+}
+
+.home-course:hover{
+  box-shadow: 4px 8px 18px 0px rgba(90, 90, 90, 0.75);
+}
