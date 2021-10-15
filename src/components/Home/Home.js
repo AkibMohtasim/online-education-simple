@@ -20,7 +20,7 @@ const Home = () => {
       </div>
 
       <div className="home-right">
-        <div className="d-flex flex-wrap my-4">
+        <div className="d-flex flex-wrap my-5">
           {
             courseName.slice(0, 4).map(course =>
               <HomeCourse
